@@ -4,18 +4,6 @@ A fun and interactive **arcade-style browser game** where moles randomly pop up 
 
 ---
 
-## 🎮 Game Preview
-
-![Image](https://images.openai.com/static-rsc-4/lCv3v8IyWjATpZ2jECsloFXRXCg2aD4nHdpvUvXv6jNXSqbttOuJfpB-DtiN5B0QaNYjes0tdDNo9IY_vBkAeia_BBHW5MZ4c5Ikp19BJYJGMuqOeVLPQSDLmUTBDF963lZCmkvCcRsVWdUfiVNtS3ZyKPio74cRM1OBby2cnGc96b4pvAJabB8wbymRTiIu?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/hko5KERcV4RTJHp-OCbYbCL8Yy1DqXA7Vcbnr7K40YQzYm7RiZG_VJNJh03b1MT0CrQFr9EPeh6hNQDTTCf-4dnBV1M2euN7WTqYMGtaJEc4_hHdqnmhzjSsjIzdY2hYY4ZHHsxs0YYuKoQ6JmsfxZIILBE3d0OSG2E0xKrW8nzvOCP7r3v2cYT2rHylTfIn?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/iZP1L4uHN9AzXZvG7sIu2KJrNfcrOztF6wQWLznfrVS5fJXpVFWms6w6kZGSdt43IZT2yxdpFvwJ60iLoIdGC97O25BCuFuVrIIXfvgaubP9QpACVxVYqA2VLgoJAiFNkGVcd0v1ZpoXtzuIzGH_-g_z3OSrRHJGEXf9fygeRIJmhyQ8rxs0GqHel9JklST7?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/kfre3oBI-H-T0Bzb6fyg2aqiY37FSxvIowTYYL9LeBZKJwcfIRHPLHALbk5vRQtZMswWj10pBK-8P2P69DkqaFRziDtbzYCCV_A2xTJI2mYRkp4c2L7D443gDRzMpg9ZqYPnsMYrslXEvoxpXyo9tBiZNsmORCVJGcCoffoq3RX8XkKDinVpeAgh-GOVGxlj?purpose=fullsize)
-
----
-
 ## 🚀 Features
 
 * 🎯 Random mole appearances (dynamic difficulty)
